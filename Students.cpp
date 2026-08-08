@@ -10,7 +10,7 @@ using namespace std;
     string name ;
     int rollNo ;
     char section ;
-    int phoneNumber ;
+    long long int phoneNumber ;
 };
 
 int main()
